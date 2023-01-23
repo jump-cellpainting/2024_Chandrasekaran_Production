@@ -83,8 +83,6 @@ Batch12	OKA01.02.03.04.A	BR00126709	ORF	dye	100	Present
 Batch12	OKA01.02.03.04.A	BR00126710	ORF	dye	100	Present
 Batch12	OKA01.02.03.04.A	BR00126711	ORF	dye	100	Present
 Batch12	OKA01.02.03.04.A	BR00126714	ORF	dye	100	Present
-Batch12	bortezomib	BR00126734	Bortezomib	dye	100	Absent
-Batch12	bortezomib	BR00126735	Bortezomib	dye	100	Absent
 Batch12	control	BR00126707	Untreated	dye	100	Absent
 Batch13	JUMP-Target-2_compound_platemap	BR00127145	Target2	none	80	Absent
 Batch13	JUMP-Target-2_compound_platemap	BR00127146	Target2	none	120	Absent
@@ -102,8 +100,6 @@ Batch13	OKA01.02.03.04.A	BR00124782	ORF	none	100	Present
 Batch13	OKA01.02.03.04.A	BR00126062	ORF	none	100	Present
 Batch13	OKA01.02.03.04.A	BR00126404	ORF	none	100	Present
 Batch13	OKA01.02.03.04.A	BR00126543	ORF	none	100	Present
-Batch13	bortezomib	BR00126634	Bortezomib	none	100	Absent
-Batch13	bortezomib	BR00126641	Bortezomib	none	100	Absent
 Batch13	control	BR00123538	Untreated	none	100	Absent
 Batch2	JUMP-Target-2_compound_platemap	BR00121437	Target2	none	100	Absent
 Batch2	OAA13.14.15.16.A	BR00121547	ORF	none	100	Present
