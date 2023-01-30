@@ -2,5 +2,5 @@
 	path = jump-orf-data
 	url = git@github.com:jump-cellpainting/jump-orf-data.git
 [submodule "0.visualize-orf-data/datasets"]
-	path = 0.visualize-orf-data/datasets
+	path = datasets
 	url = https://github.com/jump-cellpainting/datasets.git
