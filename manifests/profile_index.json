@@ -1,6 +1,34 @@
 {
     "datasets": [
         {
+            "subset": "compound_DL_CPCNN_interpretable",
+            "url": "https://cellpainting-gallery.s3.amazonaws.com/cpg0042-chandrasekaran-jump/source_all/workspace/profiles_assembled/compound_DL_CPCNN/v1.0/profiles_dropna_var_mad_int_featselect.parquet",
+            "recipe_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/tree/7643cc34537aa862c5a25801a297f692c1b75022",
+            "config_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/blob/7643cc34537aa862c5a25801a297f692c1b75022/inputs/config/compound_DL_CPCNN.json",
+            "etag": ""
+        },
+        {
+            "subset": "compound_DL_CPCNN",
+            "url": "https://cellpainting-gallery.s3.amazonaws.com/cpg0042-chandrasekaran-jump/source_all/workspace/profiles_assembled/compound_DL_CPCNN/v1.0/profiles_dropna_var_mad_int_featselect_harmony.parquet",
+            "recipe_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/tree/7643cc34537aa862c5a25801a297f692c1b75022",
+            "config_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/blob/7643cc34537aa862c5a25801a297f692c1b75022/inputs/config/compound_DL_CPCNN.json",
+            "etag": ""
+        },
+        {
+            "subset": "compound_DL_EFNET_interpretable",
+            "url": "https://cellpainting-gallery.s3.amazonaws.com/cpg0042-chandrasekaran-jump/source_all/workspace/profiles_assembled/compound_DL_EFNET/v1.0/profiles_dropna_var_mad_int_featselect.parquet",
+            "recipe_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/tree/7643cc34537aa862c5a25801a297f692c1b75022",
+            "config_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/blob/7643cc34537aa862c5a25801a297f692c1b75022/inputs/config/compound_DL_EFNET.json",
+            "etag": ""
+        },
+        {
+            "subset": "compound_DL_EFNET",
+            "url": "https://cellpainting-gallery.s3.amazonaws.com/cpg0042-chandrasekaran-jump/source_all/workspace/profiles_assembled/compound_DL_EFNET/v1.0/profiles_dropna_var_mad_int_featselect_harmony.parquet",
+            "recipe_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/tree/7643cc34537aa862c5a25801a297f692c1b75022",
+            "config_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/blob/7643cc34537aa862c5a25801a297f692c1b75022/inputs/config/compound_DL_EFNET.json",
+            "etag": ""
+        },
+        {
             "subset": "compound_no_source7",
             "url": "https://cellpainting-gallery.s3.amazonaws.com/cpg0042-chandrasekaran-jump/source_all/workspace/profiles_assembled/compound_no_source7/v1.0/profiles_var_mad_int_featselect_harmony.parquet",
             "recipe_permalink": "https://github.com/broadinstitute/jump-profiling-recipe/tree/v0.6.0",
